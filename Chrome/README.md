@@ -17,6 +17,9 @@ Here you can Download .deb files for Google Chrome.
 #Chrome V49.0.2623.75
 https://mega.nz/#!J4ZB3S6Z!fmB2yZFsC_wPbCJFPbVAgNbBqqXG0bE-3AI9Na5Yipo
 
+#Chrome V36.0.1985.143-1
+https://mega.nz/#!VsgxiIrD!wgpHLh_23Luxbw5daiyQhX1NMn9brC03l_1MmEDVoAY
+
 
 
 
