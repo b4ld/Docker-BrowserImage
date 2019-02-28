@@ -41,7 +41,7 @@ image: b4lddocker/browserimage:[browserVersion]
 
 Example:
 ```
-image: b4lddocker/browserimage:chromeV36.0.1985.143-1
+image: b4lddocker/browserimage:v36.0.1985.143-1
 ```
 
 
