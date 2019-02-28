@@ -46,7 +46,7 @@ You can see more examples here:(link)
 
 ### Docker Hub Repository
 
-https://hub.docker.com/r/b4lddocker/browserimage/tags
+[DokerHub](https://hub.docker.com/r/b4lddocker/browserimage/tags)
 
 
 
@@ -58,8 +58,8 @@ For the versions available, see the [tags on this repository](https://github.com
 
 ## Authors
 
-* **Pedro Carmezim** - *Initial work* - [OO](https://github.com/b4ld)
-* **Josue Rocha** - *Initial work* - [OO](https://github.com/JosueRocha)
+* **Pedro Carmezim** - *Initial work* - [GitHubRepo](https://github.com/b4ld)
+* **Josue Rocha** - *Initial work* - [GitHubRepo](https://github.com/JosueRocha24)
 
 ## License
 
