@@ -1,4 +1,4 @@
-# Docker-Image for Browsers/w Selenium 3
+# Docker-Image of Browsers
 
 Repo to some of the most rare Browser Versions - as long as Docker Images at DockerHub
 
