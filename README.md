@@ -8,9 +8,7 @@ Repo to some of the most rare Browser Versions - as long as Docker Images at Doc
 
 ## Versioning
 
-*Version 0.0.1*
-
-For the versions available, see the [tags on this repository](https://github.com/). 
+*Version 0.0.1* 
 
 ## Authors
 
