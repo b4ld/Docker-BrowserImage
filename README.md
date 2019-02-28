@@ -13,7 +13,7 @@ Repo to some of the most rare Browser Versions - as long as Docker Images at Doc
 ## Authors
 
 * **Pedro Carmezim** - *Initial work* - [GitHubRepo](https://github.com/b4ld)
-* **Josue Rocha** - *Initial work* - [GitHubRepo](https://github.com/JosueRocha24)
+* **Josué Rocha** - *Initial work* - [GitHubRepo](https://github.com/JosueRocha24)
 
 ## License
 
