@@ -5,7 +5,7 @@
 This is a repository that Aims to make the connection between Browsers Version relieses, and the DockerHub Image.
 This intend to help with Selenium and Docker to Web browser testing.
 
-## Get .deb Files From Repository
+### Get .deb Files From Repository
 
 *If you want to mount your own docker images:*
 
@@ -21,14 +21,14 @@ https://mega.nz/#!J4ZB3S6Z!fmB2yZFsC_wPbCJFPbVAgNbBqqXG0bE-3AI9Na5Yipo
 
 
 
-## Prerequisites
+### Prerequisites
 
 This images ar all tested with Selenium v3.5.
 
 Some Older versions can encounter issius os compatibility.
 
 
-## Working with Docker Hub
+### Working with Docker Hub
 
 On you Docker-Compose file:
 
