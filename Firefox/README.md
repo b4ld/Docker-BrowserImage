@@ -11,7 +11,7 @@ This intend to help with Selenium and Docker to Web browser testing.
 
 **Google Chrome Verion**
 
-Here you can Download .deb files for Google Chrome.
+Here you can Download .deb files for Mozzila FireFox.
 
 (links)
 
@@ -46,7 +46,7 @@ You can see more examples here:(link)
 
 ### Docker Hub Repository
 
-[DokerHub](https://hub.docker.com/r/b4lddocker/browser-firefox)
+[DokerHub Images Firefox Repository](https://hub.docker.com/r/b4lddocker/browser-firefox)
 
 
 
