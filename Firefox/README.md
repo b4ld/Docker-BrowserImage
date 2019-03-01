@@ -9,6 +9,9 @@ This intend to help with Selenium and Docker to Web browser testing.
 
 *If you want to mount your own docker images:*
 
+[Firefox_V65.0.1-1](https://mega.nz/#!Uh521aAA!gNo9h6rYKBgJtOs66e8y6FOEjwxz0hMinkmf2HPTu18)
+
+
 **Google Chrome Version**
 
 Here you can Download .deb files for Mozzila FireFox.
