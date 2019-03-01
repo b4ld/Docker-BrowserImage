@@ -9,7 +9,7 @@ This intend to help with Selenium and Docker to Web browser testing.
 
 *If you want to mount your own docker images:*
 
-**Google Chrome Verion**
+**Google Chrome Version**
 
 Here you can Download .deb files for Mozzila FireFox.
 
