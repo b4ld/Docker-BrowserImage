@@ -4,6 +4,8 @@ Repo to some of the most rare Browser Versions - as long as Docker Images at Doc
 
 ## Docker images
 
+**Use this link to get your browser docker images**
+
 [Docker Hub Profile](https://hub.docker.com/u/b4lddocker)
 
 ## Versioning
